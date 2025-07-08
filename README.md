@@ -1,2 +1,32 @@
 # DSA_Interview_practice
 DSA_Interview_practice - Includes data structures and key interview problems. Spans across multi languages.
+
+- Implement Gray Code generation in Python.
+- Create a grid paths problem solution in Python.
+- Add a movie festival scheduling problem in Python.
+- Implement a number spiral problem in Python.
+- Add a palindrome reorder problem in Python.
+- Implement power set generation in Python.
+- Create a function to print linked list in reverse in Python.
+- Add a function to print possible strings with spaces in Python.
+- Implement a function to print all subsets in Python.
+- Add regex problem solution in JavaScript.
+- Implement a restaurant customers problem in Python.
+- Create an image rotation function in Python.
+- Add a function to calculate trailing zeros in factorial in Python.
+- Implement a two sets problem in Python.
+- Create a virus outbreak detection function in Python.
+- Add a word breaker problem solution in Python.
+- Implement a non-increasing numbers count function in Python.
+- Add Closest Number calculation in Java.
+- Implement string compression in Java.
+- Create a logic operation computation in Java.
+- Add marks calculation based on input in Java.
+- Implement leaders in an array problem in Java.
+- Create a longest prefix suffix calculation in Java.
+- Implement maximum difference calculation in Java.
+- Add BFS and DFS graph traversal implementations in Python.
+- Create Prim's algorithm for minimum spanning tree in Python.
+- Add sample input for graph problems.
+- Implement alphanumeric sorting in Python.
+- Create a function to find two values that sum to a given number in Python.
